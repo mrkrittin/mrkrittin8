@@ -1,0 +1,26 @@
+{
+  "name": "Ola McGee",
+  "age": 42,
+  "address": {
+    "street": "Pive Square",
+    "city": "Fegelu",
+    "state": "SC",
+    "zip": "39239"
+  },
+  "contact": {
+    "phone": "(443) 220-2746",
+    "servicePhone": "800776231"
+  },
+  "birthday": "1986-12-03T05:40:12.302Z",
+  "ip": "243.81.202.36",
+  "foo": "bar",
+  "profile": {
+    "about": "Viwwu mi rof had pu tu boun pinpeliv foni ugilelvo ago coperuj sob uzeudofag rebap. Kotoiv mowfivtek zezcusbo me dan puro imnip tuh onuur emhanati sokuhgog ajour secwarwo so if tavuaw zostajwo son. Fa zujponit pumu uhu ohi vosviztah oz bas oftepdud jezul siwu dec eh mu mudwekcep wipo. Helfor jo pote zircec dupu it gonzefec ozwuifa por jun wojepafo behanguk. Fi hat ni abpuod oneecci ro zeda ufavuter nomtutcil ici ajiwomkep pi he comeskuz daovza.",
+    "bio": "Kejut ri wuor tel lecnemec nocifec fekja vi cotelitok ahumuhkef si udopig. Alcob senaj vol sak delgah bakdelja otabukpu risfuz cuw mehe dogbi zizveveb ep fijlalku. Ku befa jem ovli fikhuog giduzmor hi wuuv nor soaka daoffep ge vajuzi derafobo. Jo ceude izored cufgosu ridot fap fo ba dih ligkez cak un rofigudo dinvosiw faimle. Wav og nawamem viefi go cu ben uv holi le popezu se wapfip."
+  },
+  "apiKey": "6c3872a8f72f0979c57542c689eaa70d99574e5e9541916fb4a53cef17aaf99e",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
