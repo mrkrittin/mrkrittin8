@@ -1,0 +1,26 @@
+{
+  "name": "Lou Hansen",
+  "age": 34,
+  "address": {
+    "street": "Puzkuh Highway",
+    "city": "Kekkozov",
+    "state": "CT",
+    "zip": "66844"
+  },
+  "contact": {
+    "phone": "(647) 476-8313",
+    "servicePhone": "800547328"
+  },
+  "birthday": "1994-11-11T12:33:51.082Z",
+  "ip": "33.15.246.11",
+  "foo": "bar",
+  "profile": {
+    "about": "Ripeh enodawo pabdu eguveav iniki rokino urdeb pekpuz ipe ludvovoz fuopa kumolwor. Matjuniva eh uviza ri onilezso cavlos gef nojfula ejukoigo kefzap jozip kaclicu. Bab hisig poci guk horjo apunut pofokor gis kuc ib gagad gur joroki su wildubo epugid tu ibofa. Ut fibla cah oha hoc lisvupwu ikatemu kargada ir namvuc ozoniw vi.",
+    "bio": "Cieli tut zabaro jid jameh nuzivu medsi lugwopsu feba ele otoikulol otetahmu hubilir. Lu cu babniz ejidop hi odme caizuki tac pipehe hivdo mohjeh dioj vurerok goz lam nirab velnivmap siwedeeca. Veptipu kafatwep cawojili viv famvuglik anoti hof ulijubob gize cikogec zian linifar sebid jaoc lowmu ihtuczop. Tuujuto pauhuzek juvwonju misaad lefuvare octiw moja ihoju fiwup biscigjo fu ica ciboke ez samulra wa. Nuhlon duzzorfob du hajsawun bos ke rerebru tazo mut eh guwekus feivomo fuzpo sul zulepno uzneg. Cak nutul bu dese wedug navetpi cecnoaj lujulubo zedvafuj ikju nezihsug morleti fa lar maf hudowziv kaf ribipa."
+  },
+  "apiKey": "e6c13742eb90b3a716dc4d82945489010ac922dd59ef4230072aabf44e7f54c9",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
