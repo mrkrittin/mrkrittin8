@@ -1,0 +1,26 @@
+{
+  "name": "Dustin Salazar",
+  "age": 31,
+  "address": {
+    "street": "Meoc Path",
+    "city": "Tarukmo",
+    "state": "RI",
+    "zip": "54893"
+  },
+  "contact": {
+    "phone": "(911) 421-3956",
+    "servicePhone": "800474778"
+  },
+  "birthday": "1999-09-26T01:42:25.661Z",
+  "ip": "254.138.19.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Win mi sefi oliwe sadiweze kif otapaba kuizwa ahzicvub sutcec mu wuvefzo. Veple gomveb dod ihitlo dofu lah kubupud weadu zinza bowdamcad itoosapu kumipli vi nivelo ehkimhir nasiima cup. Omjijo sahufle hewine na miat waomo zukuvve bi utupad suhmehu coh vu emuhemzi go atuje. Netce gos rok zojwu wawibac gap hon me wi zobpenuc wuw su asejodlu dofzabu.",
+    "bio": "Vene riutehe sudek imefaz lufud koluk kid wa rufbo ses sekezit dutencal orgej kizedgof boligu rarot. Rodewul gag kotar jub ino pozsohip ani vahbavivi amipap bejkut nakom hos cag zulzo. Neniur gu duwidude zurulbe bosse se ut ode okomunwo wohod vituri gubo in uzso utakomog iv. Juwi naapifo loohap vovzioti ezu nucad nob nug lorze vemopo weh puwur zudemgi raetier. Etepursej lezav ujefugo cod icedoce pa biwip vep gubafciv cub eztotu vanet ri ihuba zifan uwivego alo ko."
+  },
+  "apiKey": "9af0af3d14e050856e16e7142b0cb628a49fcdd6213e0a4ddbce959cbe85edcd",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
