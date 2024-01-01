@@ -1,0 +1,26 @@
+{
+  "name": "Hester Norris",
+  "age": 38,
+  "address": {
+    "street": "Modmu Mill",
+    "city": "Babramlu",
+    "state": "ID",
+    "zip": "34011"
+  },
+  "contact": {
+    "phone": "(238) 337-2724",
+    "servicePhone": "800338422"
+  },
+  "birthday": "1994-03-04T08:54:03.681Z",
+  "ip": "232.126.134.179",
+  "foo": "bar",
+  "profile": {
+    "about": "Enunopmac hefulev dagwucnas lu oglef cu kumzul vekhozag tarzi bi megba sezorib casol pasade. Kigugakak torwu fas sovornag octot sir ruhvo zi ballaj miri apew dere kibugbuc. Te od sof powekih lapevbo gajma ensok ana leg opofulow govize niviawu dubenu gotoeg ufva.",
+    "bio": "Cu ti epger abulu ohsovod hil gohic ovtot bubkuowi nap ori aloako wog do to. Dewahha ewfov ceh dek recha did uw jewmitpi ruf oti hajuzviv zed edeek zorbaruv uj mafwe. Fervugep anuhilofo tiz silu he eji efi gef su ruj karbih baturok imopetli sipewef riziif jogrunif bupga lawehuru."
+  },
+  "apiKey": "85cd11f475dc012387f34862426893d22207cb9be19ea08ba13aca90178ef48c",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
