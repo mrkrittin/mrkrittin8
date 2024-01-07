@@ -1,0 +1,26 @@
+{
+  "name": "Mae Wilkins",
+  "age": 23,
+  "address": {
+    "street": "Dabot Highway",
+    "city": "Nuzapnor",
+    "state": "TX",
+    "zip": "53539"
+  },
+  "contact": {
+    "phone": "(502) 541-1036",
+    "servicePhone": "800598768"
+  },
+  "birthday": "1997-11-30T15:33:40.732Z",
+  "ip": "128.156.161.130",
+  "foo": "bar",
+  "profile": {
+    "about": "Huk weledu aguipodum veg vopemcu vid tit bog bohetob guohebis esuuroaso gu apvi ba um. Zozpa jur jogcum navli pap ji bulop te ce ko edo bozcevna botluce butojnen. Botaj gaolitik atimulapi feitnuf johosva padamiez buggod lezjihrob nicevoh rapjak nawuwe duk.",
+    "bio": "Uzaw nusivuceg fuupolus liblus kujishe buwje ubusevut hiultum ec fo vis gid kejoja lapal zohoiw wooke fohpoz raawonam. Kopumco zuc adegivol bepuim ihafohote sanuom jabmakhoc najogu zifel duz gobevo helefsup rijep pubsioci komo iwebufi. Zadi hokda ojejugnag sari humen ha fofil hahe umarazfoc coheot itpe zi vuf ijdenig oku ib moakuwi. Re bitopo maobawa hofoha finaw agdidfe wotakib ulu fijuslo wufgitjek titsa ru huhheh urofigiz wus urohi kez takikako. Ivawo ewuipu fegusi oc salono bikajmam porconip ukeaguipe fu zugdum ge fi woas gomaze dici dacohu."
+  },
+  "apiKey": "66d05063ba1eb912b0dc5dd3e436db0a7a83e19f74546aa783c7f5e8c0b3598d",
+  "currency": {
+    "code": "KHR",
+    "name": "Cambodia Riel"
+  }
+}
