@@ -1,0 +1,26 @@
+{
+  "name": "Lida McCormick",
+  "age": 59,
+  "address": {
+    "street": "Raet Way",
+    "city": "Sopcuju",
+    "state": "CT",
+    "zip": "48689"
+  },
+  "contact": {
+    "phone": "(484) 872-7417",
+    "servicePhone": "800699531"
+  },
+  "birthday": "1986-09-05T09:13:55.556Z",
+  "ip": "194.81.38.76",
+  "foo": "bar",
+  "profile": {
+    "about": "Bupu pimlesij tivdej fa vi siz satfuzi loodlaf munbi keglocca zuig usuemipi capofid remraf boobe rieju medsac. Rarpoto ro simen gelsa voz lojum luvkamaz zosa do zeg ujabor fecu wuco rotomop bu kori lel. Ne taoh rusbow do wo worculu nemadvub maglewwaf fuje lu sifol cajga ludrabeca kilke ulahos.",
+    "bio": "Oci oteiwo wobjoefe coravur teufhif tutul cogjeiji goreziv metfo nikup su husbib op. Wi udrij ho bo vig ogaliz renvihtih orhucwoh sa so vobvel ruzunpoz tez bazida umnug oheemaeta. Habmakcef liute siptaufo hi hioflok sin huko aniwubhos jiededi lito fap irijawuz cilzeko."
+  },
+  "apiKey": "e167ab7c81ab8aa8f83cd86ceb15cdb2cd7b3592867ca80653c9ed02eb96eee4",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
