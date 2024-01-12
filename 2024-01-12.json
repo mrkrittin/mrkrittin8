@@ -1,0 +1,26 @@
+{
+  "name": "Ida Soto",
+  "age": 21,
+  "address": {
+    "street": "Pobaw Avenue",
+    "city": "Uwugizi",
+    "state": "TX",
+    "zip": "71348"
+  },
+  "contact": {
+    "phone": "(700) 413-5438",
+    "servicePhone": "800375795"
+  },
+  "birthday": "1994-07-10T19:28:24.292Z",
+  "ip": "223.22.75.213",
+  "foo": "bar",
+  "profile": {
+    "about": "Islor fakeilo iderijo ijer rovja hoob wueghu ot rahe cappa kobnev submivvuw. Zelsowvu bohnesin liiphus pakuba riom zibtoj rij gudara ku co fo kupcof iwo cugge. Cedokro nef sit jar wejgukin lumkuksi honjaki muvu zive zo ma cob ac louna.",
+    "bio": "Gaz he pu bectout taravihi kik wa duk rijze vo usfaru hakbugo me hirijowo rava teh ruz. Jeuj wipom kitur keelhos ojejiv igte rolesfo dumo pulel mib cu gunkavo wihesada. Ewtepru pu himewfa bibir acsipu jakgevfe huepu hulepwig ek upoikzi hukmifpif vuluga barhi taji abfo gid ugzid fuw. Viekce wuzhehot jojedjo wolce kabuhbol haz cicac ku giajuwu vendud pigzu jud daw ji hoc dehsi. Tecomge fussoro teler wedagzi ef cucoz cocena itaw arrugus mehop ceenvid fetgogi debazso tat pi. Fielu ruhjaz koizu riregic cez teoco omieticaw ur huiji poc pe zasgo beru. Nijud aguarika te uzbe mojabu cupemsal tojadza vi loiga rir mam gi secvet lionevi jowa apocce."
+  },
+  "apiKey": "a1ab3f3a94720f166c430936c14806dfb98e5464234962c7e282a2ccf0dad5bf",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
