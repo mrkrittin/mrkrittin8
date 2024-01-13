@@ -1,0 +1,26 @@
+{
+  "name": "Jerry Neal",
+  "age": 65,
+  "address": {
+    "street": "Fogpo Square",
+    "city": "Harebni",
+    "state": "DC",
+    "zip": "93310"
+  },
+  "contact": {
+    "phone": "(415) 456-8214",
+    "servicePhone": "800772816"
+  },
+  "birthday": "1973-08-15T23:01:33.646Z",
+  "ip": "184.115.193.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Edudegto huap is opo tonlis no uwu siklapu siwtov revbiznov tectov ho ahetailo. Uge peifilav ceiti rerguk joefano os sad pej kasolto mu bev tatgo lu mobano feb apiecdo piuki ro. Nilrij nutdih owa ti azpebe av avrelu hukhota de udimeciw gug kuvlavgeb mirtimne uj uj fugkoic. Tivi zuf livuz wineba rukwekik dowelu gi hov cilboru jehimlef foulmo obbalad. Hasno malsihpe ofasaah no efuwi re nidzomot zaddokne limek kim latirdar ikevo dohupug mi usa. Luwzebuk awagu he gaime gupatlo vilaoso ge odzop leje lesam conij faje.",
+    "bio": "Gehad pitefe si iwpimgah ganhupo fi naddiv tunaz abiwava tunod cefuzo fu hiwo zonepuma su edagma juduni. Nalozvo avgojmek falcatac vijlo roli amfojre wag parzob mihugaso motbol bug safzeit tezu opiig im fezduva siglo fohapki. Ziameca devuwipo hofe uru dac jas penah divosuki mi fukod uduewe fopan igufehcim he tanva iworeci pewtolfag disnaut."
+  },
+  "apiKey": "3443aff323eafc51d87b62bb928f320f59e0d6ba19715961a421d0cb923981c3",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
