@@ -1,0 +1,26 @@
+{
+  "name": "Mike Colon",
+  "age": 49,
+  "address": {
+    "street": "Tetgi Avenue",
+    "city": "Ejgikav",
+    "state": "DC",
+    "zip": "93096"
+  },
+  "contact": {
+    "phone": "(355) 312-5721",
+    "servicePhone": "800223278"
+  },
+  "birthday": "2004-11-17T15:26:02.608Z",
+  "ip": "50.35.32.155",
+  "foo": "bar",
+  "profile": {
+    "about": "Rok cot mu muc ki filukde hon uvawo cepaha im fi ka tom veoj coliwo. Zuorgeh sigifo bafjibfo uhpu posko asbo edsewa ofra ho rut lo kohrap tacdehko ov urofepza ishewvo ece il. Robizhic ramnu wami degire bacij totpej du iznap rof lik cab zokag wetoar wonus zolor.",
+    "bio": "Ecouma ocobo alagovaz veb awi ipi uc jufuro puja az gohmap zuec simadovad fuhpu hi sidlokov josimic wokufi. Herapig jeru ugoit zitdijaw ropiwsu adopot fucumaz ifa legtici kowugas ez baubi. Gegbosav heljus wodco cimojine dujtit ge juftinmeb efsac kinro recabeh vohwuti mid ti ezeib izisso joccaz kuc. Duun giir ce dinubgi melu tib rumugsil vinik wiufuv so go kom rasippi udte vuc op usupan nuof."
+  },
+  "apiKey": "f046da5bd1fa69e1fbf0fd728c58657fa152bfe5bae34ef56041a89692fbc26f",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
