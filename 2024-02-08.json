@@ -1,0 +1,26 @@
+{
+  "name": "Todd Newman",
+  "age": 62,
+  "address": {
+    "street": "Ruto Square",
+    "city": "Rawdarzu",
+    "state": "NV",
+    "zip": "83814"
+  },
+  "contact": {
+    "phone": "(602) 497-6195",
+    "servicePhone": "800244986"
+  },
+  "birthday": "1978-10-31T04:23:55.746Z",
+  "ip": "130.71.124.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Fez lel zar fa avi sudabetar ugrakpec zaj jujimvac fokavo iv wuvneh okzum da. Tuekuhi vec maf vodindu zuvo bef ibobuv esekokera ula ruzosjep nowik ov nufnogi kowdafro ratmi cabu ucevoipo. Wal wewrejnif bo lo lorrupi muhgem defpalobu gula wamumel ok te ovijep mawa siklecot ipomupobe.",
+    "bio": "Ekopano upvemeru iwa miha ritbum nobguz nazred jit zehodje telidvid sehoaw mo vac zimiteza os liv wimer. Iwi nugap kufaszos zonrikvor cu unval zu tehueh uga fog zasmo ica rafof sof bedussow. Sog fa gev newmaci aso umzoni ulabuve uw lobhilge ekoabvi gosikrun ah jasdutbal mohlama raawo obanehcip beso awe. Lufa gapjuba nurnukad odajiv tolku wiocse bafca mo kegza foja gidebu argog pim idiruje jenija ihohivdu abhizi tobesadi."
+  },
+  "apiKey": "e866ca19e2b538f4cb973b69099e47ced08ac9295c188e4f723f9e5f855c121b",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
