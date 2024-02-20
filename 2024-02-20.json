@@ -1,0 +1,26 @@
+{
+  "name": "Victor Underwood",
+  "age": 61,
+  "address": {
+    "street": "Rifo Pass",
+    "city": "Gimhinbe",
+    "state": "DC",
+    "zip": "88930"
+  },
+  "contact": {
+    "phone": "(233) 363-6296",
+    "servicePhone": "800947715"
+  },
+  "birthday": "1993-10-14T03:20:27.368Z",
+  "ip": "180.165.22.181",
+  "foo": "bar",
+  "profile": {
+    "about": "Lealo durdowi pulom verehuf gunrupac jomakte ube pobcu ero ikuuzo ged go deh uhi. Zofozro fupce heroru kabzav uji wo nar vel ked hip iwufus liwbogumo ipmow li juwe vuwzi. Siutius lul tatec udeca megda uwihabo cez lirabab sapavud gi mom suk ronbas bu tipmas.",
+    "bio": "Uwsur vilihuh ehtu sishu ip libdu giv tenfow dawo we asehi miko banirco fuwur mo memoli ri. Teh ebasozad bawvinwel nu coc vitpakril cafde evmew licno zizam mos joiwe. Pamaha gojuva cunimoh nujne nesow ilpena wu ojdijli cez di tedoboah ecoesobu dut oco sohafsuv hemaemu vu."
+  },
+  "apiKey": "e4b64eac4bab0f98b3622ca420b7532a4d8fb81989a038532b972feea3acf6be",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
