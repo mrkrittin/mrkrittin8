@@ -1,0 +1,26 @@
+{
+  "name": "Alfred Stevenson",
+  "age": 41,
+  "address": {
+    "street": "Ceffu Loop",
+    "city": "Ugvalbin",
+    "state": "LA",
+    "zip": "40381"
+  },
+  "contact": {
+    "phone": "(381) 741-9532",
+    "servicePhone": "800659463"
+  },
+  "birthday": "1969-07-06T17:27:54.281Z",
+  "ip": "171.163.117.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Bircasved kuh tav zagkev rodo bammotuc idiigi irobib fu hobkubda ke evne tuzizmed sa lokew wi ilulu vuj. Jezakrub edul af pec gaz kid beb idevi mu fip nu ah pij guhepieko wajahoz. Tive tu lam luubzuz povo didetjug rowme biduob uc masnuke ahutu ci zecnip uckecu. Va lof bizeik ji pubac bi owutik dizdes ime dapnulbom jehuru zi foloc. Do va metpu ju jicenpad zabtumih camwo kerebjuz ame tew uge wo osdic jaarjul. Cer uhiekubeh wih nom wozkom su wastuko lupcec judsehhen lahoun lazep gofe.",
+    "bio": "Eksu gimakgi tet evigaec re ge zek vo timafa puafoed kebfoti volzud pot gegfi. Na fo gukpa belohal memkup duvjigu aredonol ge zafan junuzago mor nir ihutolap vewoguz caf bopabge vaten. Laodafe afeetedu mockiomu pondic asa mogmu pip posi disjueh sof jurralbi jin faghif idieweko ciigi. Ceve gi zuk fakape jalmoku onujelod lipociwem newova obtahusi mut ic ja mi vurup aru hujdi mamezpav."
+  },
+  "apiKey": "30e93d92033620774f42c4d0f1ffe80424f4f6c95f6743aef7484b63be6cee37",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
