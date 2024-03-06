@@ -1,0 +1,26 @@
+{
+  "name": "Jack Wallace",
+  "age": 31,
+  "address": {
+    "street": "Wiin Ridge",
+    "city": "Giegazik",
+    "state": "RI",
+    "zip": "58978"
+  },
+  "contact": {
+    "phone": "(414) 521-7687",
+    "servicePhone": "800989551"
+  },
+  "birthday": "2004-06-28T02:27:40.854Z",
+  "ip": "100.172.20.223",
+  "foo": "bar",
+  "profile": {
+    "about": "Ovuihi hil udu aso ipobe jipgo wup ujiugu wehzeriz obparni mozu hohi jobe ha. Wenuddo ju ohdecan mik peszu voguhimaz ospap zojib jiedlo rog fepi afakok duhi mavec te rilsetciw. Asi jitfa pake sud sunizwu seij wi nudutod wunumsec bobor daboc tep pa posog bezofan koltedar ed. Jaspimifa potwaw fahede ug ah sogale egourlak das ta foizhe pen jesluge hizusov viphowsag.",
+    "bio": "Gologcen maweiri sibenho tesuputi danicfew kareh zaerze teh telut jivodav cigrot hu lobbiwem da. Fa fid biucumug zu cutit izucesav saj lukobjuf feabufu viwifzal juicu simis. Gacuplit jadbokoj su ovo az eha bubise filohbib geh pel bu saatoete haga laciere ite."
+  },
+  "apiKey": "2f012811f42792b68a64a1181e1d4093b0f8edf47f6e9d8af0e0d95a3f7f341a",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
