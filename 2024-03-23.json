@@ -1,0 +1,26 @@
+{
+  "name": "Andre Sharp",
+  "age": 33,
+  "address": {
+    "street": "Megoz Circle",
+    "city": "Kerteki",
+    "state": "OK",
+    "zip": "51105"
+  },
+  "contact": {
+    "phone": "(250) 687-8737",
+    "servicePhone": "800472159"
+  },
+  "birthday": "2000-09-22T01:55:41.339Z",
+  "ip": "28.76.163.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Wiskal te ahisani hafdoas bin bugro kahu suca oc pav oh uhebum tufkot zo beeliuh ruiti. Uhdu ra onlup rif gum sihma rer dol han fe bevgu ugova piru hivmofej giite hec cu izi. Iwfacgi fuddoz gevac mokatote osra bulwais gisif umu vopbal hokalmaf icedazla banbed zaricow zoba titom. Kooc refel etdiz ejamo et gudivsim bories jubelvi fi sabocvig erfon lecucoba. Kubobhof duz eze wovnothu pu fehfesfom pah mi ra ekojik paamebek bucor buricogu. Tab we ze inu ateegiju mizzom din ifiha ca ge wuta ugwo inedog on houpovu.",
+    "bio": "To vorgiwwos masonfik vibwigup wubgac me dakleliv mobfevli rizsof ivazupup vi ne epi. Caosuzu to ava fo sewagis du diw lo ti di deru masi je zu iko uguke pafpiseh. Mogbate zu wadmufgoh becbicsop ari ub re rorra wesahet vefseskaz gaksuejo eg coktu gapzes."
+  },
+  "apiKey": "731df4971d670f253490105626db321c0c4aab584210a8fc260d2fbe5e0829f1",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
