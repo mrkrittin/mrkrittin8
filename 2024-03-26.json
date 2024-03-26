@@ -1,0 +1,26 @@
+{
+  "name": "Delia Holmes",
+  "age": 27,
+  "address": {
+    "street": "Lekuti View",
+    "city": "Etefehsil",
+    "state": "IN",
+    "zip": "27921"
+  },
+  "contact": {
+    "phone": "(748) 267-9480",
+    "servicePhone": "800729876"
+  },
+  "birthday": "1984-04-04T12:33:20.931Z",
+  "ip": "166.61.87.164",
+  "foo": "bar",
+  "profile": {
+    "about": "Ri futi hi soobo sihum feco on hoci ib ij folumo wukom. Lewe huenfe na ubbibi falicbu firlit usoere rudi moas kaos uve serpepwa unu. Cagze hilihbuv fi bojju wibofdep jik va igsadaz nofa juesrap lasrek deulefo da lenof omu hilmizvu heg beciuw. Difopu kap izeero luuni cojig evedune la jajoeja oz ah jaghub ji cujur mih zek.",
+    "bio": "Zafimok janaplev vi ni det dodgubdo kel pi pipazduw samtuvwo mug his ogeruhod. Ditas rogov ot vapajtud vab fomiwav nesbamvo ipopi keuwe zofizac hatze hollinol por we mupguzbum pujvozaj rusro. Dapi odico mintut vicbena domowlu abfo mazkobsol kujena wimvo zodakrec zombeg vaj mok. Bur kuh iwjahumu se puw fo mobenha mib waindug winhehak depi napowse."
+  },
+  "apiKey": "5d4ac9ffd4ed755b44e39a0b7534dd4d1dd94b9388a3d89180c3e21b8b0822d4",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
