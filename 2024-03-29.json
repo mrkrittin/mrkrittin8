@@ -1,0 +1,26 @@
+{
+  "name": "Dean Park",
+  "age": 41,
+  "address": {
+    "street": "Cooca Lane",
+    "city": "Pihsevo",
+    "state": "MS",
+    "zip": "96434"
+  },
+  "contact": {
+    "phone": "(318) 990-9753",
+    "servicePhone": "800937352"
+  },
+  "birthday": "1964-09-06T07:23:21.859Z",
+  "ip": "110.28.137.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Ureunoemi mu ga sewo asako gijole paela ibitlu muevwa kul uhmucow femron cokugut dehak ulikafoz digupna tesael gamtajaw. Buduhtim juwurhes ob wihukru golesutu taramhi jof uzukapmir won ikepag tugego vafocomek ro uckawi unvaz hisu. Edo gap zugpo eklibif were gewu awopivfif mekmimumu moalmeb zog mocso vera.",
+    "bio": "Esoco duhasilu jem lavpe dezhicko madme itudeguz barse ropefmu cihceb ce wu jujsuc ebvugpi junlona ve pa. Dudi honeh ses di humolbo zi sumpoono befa og namamcih fuctuctad so putwito bulgovni ocgo vigago puofa fajari. Fufajcaf imi ulo bef hu tenoc ova viwif mode hi ewidi apofoaku ez is jetjuvzoz. Jecutu polup ba kivoho ekaca ra citfeebu coko ubuki na ji adeesa cehbi zitim."
+  },
+  "apiKey": "efc56c7ac9cb4e956124874c9543a03bd5d2f60ac1744c58bfe2b1bec5cd0856",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
