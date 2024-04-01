@@ -1,0 +1,26 @@
+{
+  "name": "Cole Parsons",
+  "age": 28,
+  "address": {
+    "street": "Livzot Boulevard",
+    "city": "Kedzucij",
+    "state": "SD",
+    "zip": "59865"
+  },
+  "contact": {
+    "phone": "(288) 432-4562",
+    "servicePhone": "800542689"
+  },
+  "birthday": "1994-11-02T08:33:47.184Z",
+  "ip": "117.115.233.40",
+  "foo": "bar",
+  "profile": {
+    "about": "Owi furli nuugaw uga imcib funewhun jiwrupe sizere hohkikado gudowinu pape com mobug hitnos fovo. Nuukabiw okhom awa oteeju atuzez tawfinobu luli satpu ijenumom cemos venig kewog ehlagik hibi rafna. Ru udo cupakkel wos bembuv mobbe kahiz miagelof nigolako murojov gioh zi ezizisob eg zeabiel jaweknup. Risif ce wu lam wucu akibiha naguj domu jez cit duwafo zezot tivub foto.",
+    "bio": "Zijbat kuha vawiwa midginus vupon dawdapuco odu susu walku oniro up zo zusma ruw za vev ebeice. Bokte iji dusok catraogu ha wopisdu jumizgiz te lolot naad citgov kablisura hibek no ibjicdu madduteb. Avmooki ba bupudir jaub bepwuavo karde bol imhuos wez zu fidup ula lefkaj. Wa ritful ciz radciv vo obosu uke vuzi cideve wikuti igiuce woki sopev wi re suzafad pi. Ukidetaf wiuk lekuz heom ar venjuhjev oce basa cat rihdofow oviijas kadfuw fuzopna ziaf uge cal wacbac."
+  },
+  "apiKey": "4d6fcd80cda9854404eacd19ce30272daf180b2064a37ae27bbb524c69b19fb1",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
