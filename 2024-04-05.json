@@ -1,0 +1,26 @@
+{
+  "name": "Susie Lawson",
+  "age": 42,
+  "address": {
+    "street": "Rekviz Way",
+    "city": "Fedudid",
+    "state": "NY",
+    "zip": "71986"
+  },
+  "contact": {
+    "phone": "(436) 395-2271",
+    "servicePhone": "800591489"
+  },
+  "birthday": "1980-05-25T01:15:38.509Z",
+  "ip": "95.1.90.238",
+  "foo": "bar",
+  "profile": {
+    "about": "Monfoter nohjenet nazfosbok vivbe mudedva ideidafug dazwa ma ge nejev es tajewe zowed. Hopile bounine rohud ige lecsag deidcir siv bopo efuijnu geczi petniaju ada. Urmujav pov kazoip duj fag fen loow wolvum suf diji sifcoko lumiocu saec wafigi dof kujuh. Zu sehfatuc et hisca adiepe sov la wimnad uhu roson uf vu nitanu. Jaddijceh peko okatafon huan dizpoto ag dadzifzi kazew fap uco asu natoho lamimsu ca to da lupohmi. Dugal di teorip to iva vi gejtag eb beuwli pu pealhuc bud lif.",
+    "bio": "Bijsebvub hiwohpu wasnegiv idhekul ep mejatota ogawraz vobku boser ije ciro resa epzu puk jif nij nikret tazbok. Kug rali eg ivuropiso tafe si tudra heb sitfeuri jokiwsel denotiow lorfe zumo ose. Nohwibu hewpagir zerepo eboitiwu areesapu uvu apicabuv movaki woces colda wukevva taw bed dani cawu."
+  },
+  "apiKey": "f55aa36556da2acef4634266199ac79dff8902d1e7b5dbecac0db1dc8ecac715",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
